@@ -1,0 +1,48 @@
+import React from 'react';
+import { 
+  Terminal, 
+  Download, 
+  Sun, 
+  Moon, 
+  User, 
+  Calendar, 
+  TrendingUp, 
+  Activity, 
+  Zap, 
+  BookOpen, 
+  Code, 
+  CheckCircle2, 
+  AlertTriangle, 
+  Clock, 
+  GitCommit, 
+  FileText,
+  Smartphone,
+  Database,
+  Award,
+  ExternalLink,
+  Eye
+} from 'lucide-react';
+
+export const Icons = {
+  Terminal,
+  Download,
+  Sun,
+  Moon,
+  User,
+  Calendar,
+  TrendingUp,
+  Activity,
+  Zap,
+  BookOpen,
+  Code,
+  CheckCircle: CheckCircle2,
+  Alert: AlertTriangle,
+  Clock,
+  GitCommit,
+  FileText,
+  Smartphone,
+  Database,
+  Award,
+  ExternalLink,
+  Eye
+};
